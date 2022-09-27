@@ -1,0 +1,1 @@
+This is another way to write inside a new file rather than using a touch command
